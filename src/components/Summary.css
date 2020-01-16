@@ -1,5 +1,6 @@
 .summaryContainer {
-    background-color: #6AB187;
+    background-color: peachpuff;
+    opacity: 0.7;
     font-family: Roboto;
     display: flex;
     flex-direction: column;
@@ -14,11 +15,11 @@ h2 {
 }
 
 span {
-    background-color: #F4CC70
+    background-color: lightskyblue;
 }
 
 .resultContainer {
-    background-color: #DE7a22;
+    background-color: #f47070;
     display: flex;
     justify-content: space-around;
 }

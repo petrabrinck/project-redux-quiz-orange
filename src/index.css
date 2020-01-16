@@ -4,7 +4,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   height: 100vh;
-  background-color: #6AB187;
+  background-image: url(./assets/recal-media-ueBIGLmiI5A-unsplash.jpg);
+  background-position: top;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -24,7 +25,7 @@ body {
 }
 
 .header {
-  background-color: #f4cc70;
+  background-color: #f47070;
   text-align: center;
   width: 800px;
 }
